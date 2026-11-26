@@ -1,6 +1,6 @@
 # TEJ AI: kaise chalaye (aasan steps)
 
-## Step A. Supabase mein tables banao (ek baar)
+## Step A. Supabase tables (AAPKE PROJECT MEIN PEHLE SE BAN CHUKI HAIN, ise skip karo)
 1. supabase.com par login karo, apna project kholo.
 2. Left menu mein "SQL Editor" dabao.
 3. `supabase/migrations/20261126000001_tej_ai_core.sql` file kholo, pura copy karo, SQL Editor mein paste karo, "Run" dabao.
